@@ -8,11 +8,17 @@
     4. Update Employee Details***
 - Only the admin can access the employee details through login details    
   ***Username: admin  
-     Password: admin***  
+     Password: admin***   
+       
+          
 - Technologies used:  
   **1. Java Swing  
     2. Java AWT  
     3. mySQL- Database**  
+       
+- Softwares used:   
+   **1. Wampserver  
+   2. Eclipse Version: 2020-12 (4.18.0)**   
 
 
 ## Some screenshots
